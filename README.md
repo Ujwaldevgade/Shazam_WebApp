@@ -1,8 +1,11 @@
 # Shazam WebApp
 
-## Project Description
+## Overview
 
 This project is a Shazam-inspired music streaming web application that allows users to browse music, manage their playlists, and discover new tracks. The application incorporates features such as user authentication, state management with Redux, and a visually appealing user interface.
+
+## Visit the website:
+   https://shazam-web-app.vercel.app/
 
 ## Features
 
@@ -36,15 +39,26 @@ This project is a Shazam-inspired music streaming web application that allows us
 
 ## Getting Started
 
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
 ### Prerequisites
 
-- Node.js
-- npm or yarn
+- React.js
+- npm
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Ujwaldevgade/Shazam_Web_App.git]
+   git clone https://github.com/Ujwaldevgade/Shazam_Web_App.git
    cd shazam-webapp
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+
+3. **Run the application:**
+   ```bash
+   npm start
+
